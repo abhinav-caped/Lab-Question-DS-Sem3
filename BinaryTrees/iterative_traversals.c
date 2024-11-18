@@ -44,7 +44,7 @@ void itPostorder(Node* root ){
 
 }
 
-void itInorde(Node* root){
+void itInorder(Node* root){
     Node* s[100];
     int top = -1;
     Node* curr =root;
